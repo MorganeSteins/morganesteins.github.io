@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Null
-permalink: /français
+permalink: français
 profile_picture:
   src: /assets/img/photo_me.jpg
   alt: Morgane Steins
