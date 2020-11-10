@@ -31,7 +31,8 @@ url: "https://morganesteins.github.io/" # the base hostname & protocol for your 
 og_image: /assets/img/profile-pic.jpg
 
 # Build settings
-theme: bay_jekyll_theme
+# theme: minimal
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
   - jekyll-paginate
