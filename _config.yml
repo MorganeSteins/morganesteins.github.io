@@ -64,7 +64,7 @@ header:
     - name: Home
       slug: /
     - name: Français
-      link: /french
+      link: /français
 
 footer:
   contact:

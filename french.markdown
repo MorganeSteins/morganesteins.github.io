@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Null
-permalink: /french
+permalink: /français
 profile_picture:
   src: /assets/img/photo_me.jpg
   alt: Morgane Steins
@@ -20,16 +20,16 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 &nbsp;
 
 ***
-# Publications and preprints
-### Preprints
+# Publications et pré-publications
+### Pré-publications
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
 
 &nbsp;
 
 ***
-# Teaching 
-- *AnaCS* : Analysis and scientific computing for undergraduate engineering students at the ENPC (2020). This course is taught in a flipped classroom.
+# Enseignements 
+- *AnaCS* : Analyse et calcul scientifique. Classe de TD de 1ère année des Ponts et Chaussées sous la modalité de *classe inversée*.
 
 
 &nbsp;
@@ -47,7 +47,7 @@ Durant ma scolarité j'ai réalisé plusieurs stages :
 &nbsp;
 
 ***
-# Affiliation
+# Affiliations
 **ENPC**
 CERMICS, École Nationale des Ponts et Chaussées
 6 et 8, av. Blaise Pascal
