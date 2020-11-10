@@ -63,7 +63,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: French
+    - name: Français
       link: /french
 
 footer:
