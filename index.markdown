@@ -38,6 +38,9 @@ During my education I had several internship :
 ***
 # Teaching 
 - *AnaCS* : Analysis and scientific computing for undergraduate engineering students at the ENPC (2020). This course is taught in a flipped classroom.
+- *Introduction to research project 2021* : Supervision of a research project for a groupe of four undergraduate student at ENPC. The project aimed at simulating wave propagation phenomena with the finite elements method. The Python computer code was entirely developed by the students.
+
+
 
 
 &nbsp;

@@ -29,7 +29,8 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 
 ***
 # Enseignements 
-- *AnaCS* : Analyse et calcul scientifique. Classe de TD de 1ère année des Ponts et Chaussées sous la modalité de *classe inversée*.
+- *AnaCS* : Analyse et calcul scientifique. Remplacement de classe de TD de 1ère année des Ponts et Chaussées sous la modalité de *classe inversée*.
+- *Projet de Département 2021* : Encadrement du projet d'initiation à la recherche d'un groupe de quatre élèves de 1ère année des Ponts et Chaussées. L'objectif de ce projet était la simulation de phénomènes de propagation d'ondes par la méthode des éléments finis par un code entièrement développé par les élèves.
 
 
 &nbsp;
