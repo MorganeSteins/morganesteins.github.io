@@ -2,7 +2,7 @@
 layout: home
 title: Morgane Steins
 profile_picture:
-  src: /assets/img/photo_me.jpg
+  src: /assets/img/photo_me-circle.jpg
   alt: Morgane Steins
 ---
 Welcome to my academic page.
@@ -18,7 +18,7 @@ Another topic is to use the hybrid aspect of HHO methods for adaptative mesh ref
 
 ***
 # Publications and preprints
-### Preprints
+### Publications
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
 
@@ -37,7 +37,8 @@ During my education I had several internship :
 
 ***
 # Teaching 
-- *AnaCS* : Analysis and scientific computing for undergraduate engineering students at the ENPC (2020). This course is taught in a flipped classroom.
+- *AnaCS 2021-2022* : Analysis and scientific computing for undergraduate engineering students at the ENPC. This course is taught in a flipped classroom.
+- *AO102 2021-2022* : Dynamic Systems (study of ordinary differential equations). This course is taught to undergraduate students of ENSTA Paris.
 - *Introduction to research project 2021* : Supervision of a research project for a group of four undergraduate student at ENPC. The project aimed at simulating wave propagation phenomena with the finite elements method. The Python computer code was entirely developed by the students.
 
 
