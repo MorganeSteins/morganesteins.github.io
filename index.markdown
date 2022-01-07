@@ -62,3 +62,6 @@ DES/ISAS/DM2S/SEMT/DYN, Dynamic studies lab, 91191 Gif-sur-Yvette Cedex.
 
 **INRIA**
 Project-Team SERENA, Building A, 4th floor, Inria Paris, 2 rue Simone Iff, 75589 Paris 12.
+
+# Personnal projects
+I am interested in gluten-free lifestyle, since I eat gluten-free myself. This lead me to create my own dedicated website : [Glutons](https://glutons.fr/). I developed the website myself (django for the backend and bootstrap for the front-end) and I also write articles subjects related to gluten-free eating : health, recipes, adresses. Hence, this website is both a personal project dedicated to a subject dear to me, and a technical project, allowing me to employ my technical skills to another area of work than my PhD. Do not hesitate to have a look (only in French for the time being) !

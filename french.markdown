@@ -65,3 +65,7 @@ DES/ISAS/DM2S/SEMT/DYN, Laboratoire d'Étude de Dynamique
 
 **INRIA**
 Equipe-projet SERENA, bâtiment A, 4ème étage, Inria Paris, 2 rue Simone Iff, 75589 Paris 12.
+
+
+# Projets personnels
+Intéressée par les enjeux de l'alimentation sans gluten, car moi-même concernée par ce régime alimentaire, j'ai créé un site internet d'information dédié : [Glutons](https://glutons.fr/). J'ai développé le site moi-même (django et bootstrap) et je l'alimente d'articles de santé, de recettes et d'adresses sans gluten. Il s'agit donc à la fois d'un projet personnel sur un sujet qui me concerne, et d'un projet me permettant d'utiliser mes compétences techniques dans un domaine différent de ma thèse. N'hésitez pas à le visiter !
