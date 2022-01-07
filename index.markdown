@@ -2,7 +2,7 @@
 layout: home
 title: Morgane Steins
 profile_picture:
-  src: /assets/img/photo_me-old.png
+  src: /assets/img/photo_me-old.jpg
   alt: Morgane Steins
 ---
 Welcome to my academic page.

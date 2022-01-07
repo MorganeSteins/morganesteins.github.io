@@ -3,7 +3,7 @@ layout: home
 title: Null
 permalink: /français
 profile_picture:
-  src: /assets/img/photo_me-old.png
+  src: /assets/img/photo_me-old.jpg
   alt: Morgane Steins
 ---
 
