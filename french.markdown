@@ -24,6 +24,10 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 ### Publications
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
+### Communications
+- [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), présentation au *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, Octobre 2021
+
+
 
 &nbsp;
 

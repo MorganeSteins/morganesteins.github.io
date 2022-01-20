@@ -21,6 +21,9 @@ Another topic is to use the hybrid aspect of HHO methods for adaptative mesh ref
 ### Publications
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
+### Communications
+- [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), talk at the *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, October 2021
+
 
 &nbsp;
 
