@@ -23,7 +23,7 @@ Another topic is to use the hybrid aspect of HHO methods for adaptative mesh ref
 
 ### Communications
 - [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), talk at the *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, October 2021
-
+- [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), talk at the *CSMA 2022 (15ème colloque nationale en calcul des structures*, May 2022. [**Best poster Award**](assets/poster_final.pdf)
 
 &nbsp;
 

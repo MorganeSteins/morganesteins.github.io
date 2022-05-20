@@ -26,7 +26,7 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 
 ### Communications
 - [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), présentation au *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, Octobre 2021
-
+- [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), présentation au *CSMA 2022 (15ème colloque nationale en calcul des structures*, Mai 2022. [**Prix du meilleur poster**](assets/poster_final.pdf)
 
 
 &nbsp;
