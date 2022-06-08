@@ -18,12 +18,16 @@ Another topic is to use the hybrid aspect of HHO methods for adaptative mesh ref
 
 ***
 # Publications and preprints
-### Publications
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
-### Communications
+&nbsp;
+
+***
+# Communications
 - [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), talk at the *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, October 2021
 - [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), talk at the *CSMA 2022 (15ème colloque nationale en calcul des structures*, May 2022. [**Best poster Award**](assets/poster_final.pdf)
+- *An explicit HHO method for the acoustic wave equation*, talk at the [European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, June 2022.
+- [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf) at ECCOMAS Congress 2022, Oslo, June 2022. ([Slides](assets/STEINS_ECCOMAS.pdf))
 
 &nbsp;
 

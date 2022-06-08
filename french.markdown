@@ -27,7 +27,8 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 ### Communications
 - [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), présentation au *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, Octobre 2021
 - [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), présentation au *CSMA 2022 (15ème colloque nationale en calcul des structures*, Mai 2022. [**Prix du meilleur poster**](assets/poster_final.pdf)
-
+- *An explicit HHO method for the acoustic wave equation*, présentation à l'[European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, Juin 2022.
+- [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf), présentation au congrès ECCOMAS 2022, Oslo, Juin 2022. ([Diapositives](assets/STEINS_ECCOMAS.pdf))
 
 &nbsp;
 
