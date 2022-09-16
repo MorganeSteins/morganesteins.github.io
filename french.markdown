@@ -36,8 +36,8 @@ Un autre sujet d'importance est la mise à profit du caractère hybride de la m�
 
 ***
 # Enseignements 
+- *AO102 2021-2022 et 2022-2023* : Stabilité et Commande des Systèmes Dynamiques. Classe de TD de 1ère année de l'ENSTA Paris. 
 - *AnaCS 2021-2022* : Analyse et calcul scientifique. Classe de TD de 1ère année des Ponts et Chaussées sous la modalité de *classe inversée*.
-- *AO102 2021-2022* : Stabilité et Commande des Systèmes Dynamiques. Classe de TD de 1ère année de l'ENSTA Paris. 
 - *Projet de Département 2021 ENPC* : Encadrement du projet d'initiation à la recherche d'un groupe de quatre élèves de 1ère année des Ponts et Chaussées. L'objectif de ce projet était la simulation de phénomènes de propagation d'ondes par la méthode des éléments finis par un code entièrement développé par les élèves.
 
 

@@ -44,8 +44,8 @@ During my education I had several internship :
 
 ***
 # Teaching 
+- *AO102 2021-2022 and 2022-2023* : Dynamic Systems (study of ordinary differential equations). This course is taught to undergraduate students of ENSTA Paris.
 - *AnaCS 2021-2022* : Analysis and scientific computing for undergraduate engineering students at the ENPC. This course is taught in a flipped classroom.
-- *AO102 2021-2022* : Dynamic Systems (study of ordinary differential equations). This course is taught to undergraduate students of ENSTA Paris.
 - *Introduction to research project 2021* : Supervision of a research project for a group of four undergraduate student at ENPC. The project aimed at simulating wave propagation phenomena with the finite elements method. The Python computer code was entirely developed by the students.
 
 
