@@ -9,15 +9,17 @@ Welcome to my academic page.
 
 
 # Introduction
-I am a PhD student in numerical simulations under the direction of [Alexandre Ern](http://cermics.enpc.fr/~ern/) at CERMICS. My other supervisors are [Martin Vohralik](https://who.rocq.inria.fr/Martin.Vohralik/) (INRIA, co-direction), Olivier Jamond (CEA) and Florence Drui (CEA).
+I am a PhD student in numerical simulations under the direction of [Alexandre Ern](http://cermics.enpc.fr/~ern/) at CERMICS. My other supervisors are Olivier Jamond (CEA) and Florence Drui (CEA).
 
 **PhD topic** : I am working on the use of HHO (Hybrid-high order) methods in the context of structural dynamics. The goal is to apply the spacial HHO discrete operator on dynamic equations solved with explicit time algorithms.
-Another topic is to use the hybrid aspect of HHO methods for adaptative mesh refinement.
+My first yers of PhD were dedicated to the conception of an explicite time integration algorithm for the the acoustic wave equation (linear and non-linear).
+The last year of my PhD focuses on the application of the algorithm to numerical simulations in fast dynamics.
 
 &nbsp;
 
 ***
 # Publications and preprints
+- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui.
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
 
 &nbsp;

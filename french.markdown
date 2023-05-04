@@ -10,18 +10,19 @@ profile_picture:
 Bienvenue sur ma page académique.
 
 # Introduction
-Je suis étudiante en thèse en mathématiques pour la simulation numérique sous la direction d'[Alexandre Ern](http://cermics.enpc.fr/~ern/) du CERMICS. Mes autres superviseurs sont [Martin Vohralik](https://who.rocq.inria.fr/Martin.Vohralik/) (INRIA, co-direction), Olivier Jamond (CEA) et Florence Drui (CEA).
+Je suis étudiante en thèse en mathématiques pour la simulation numérique sous la direction d'[Alexandre Ern](http://cermics.enpc.fr/~ern/) du CERMICS. Mes autres superviseurs sont Olivier Jamond (CEA) et Florence Drui (CEA).
 
 **Sujet de thèse** : 
-Je travaille sur les méthodes HHO (Hybrid High-Order) pour la dynamique des structures. L'objectif est d'utiliser les opérateurs de discrétisation spaciaux de la méthode HHO dans le cadre des équations de la dynamique résolues avec des algorithmes temporels explicites.
-Un autre sujet d'importance est la mise à profit du caractère hybride de la méthode HHo pour le raffinement de maillage adaptatif.
-
+Je travaille sur les méthodes HHO (Hybrid High-Order) pour la dynamique des structures. L'objectif est d'utiliser les opérateurs de discrétisation en espace de la méthode HHO dans le cadre des équations de la dynamique résolues avec des algorithmes temporels explicites.
+Mes premières années de thèses se sont concentrées sur la conception d'un algorithme d'intégration explicite en temps pour l'équation des ondes linéaires puis non-linéaires.
+Ma dernière année de thèse est dédiée à l'application de cet algorithme à des simulations en dynamique rapide.
 
 &nbsp;
 
 ***
 # Publications et pré-publications
-- [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
+- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui.
+- [Convergence analysis of hybrid high-order methods for the wave equation](https://link.springer.com/article/10.1007/s10915-021-01492-1), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins, J. Sci. Comput., 87(3), 91 (2021).
 
 &nbsp;
 
