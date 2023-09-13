@@ -12,15 +12,16 @@ Welcome to my academic page.
 I am a PhD student in numerical simulations under the direction of [Alexandre Ern](http://cermics.enpc.fr/~ern/) at CERMICS. My other supervisors are Olivier Jamond (CEA) and Florence Drui (CEA).
 
 **PhD topic** : I am working on the use of HHO (Hybrid-high order) methods in the context of structural dynamics. The goal is to apply the spacial HHO discrete operator on dynamic equations solved with explicit time algorithms.
-My first yers of PhD were dedicated to the conception of an explicite time integration algorithm for the the acoustic wave equation (linear and non-linear).
-The last year of my PhD focuses on the application of the algorithm to numerical simulations in fast dynamics.
+My first years of PhD were dedicated to the conception of an explicite time integration algorithm for the the acoustic wave equation (linear and non-linear).
+The last year of my PhD focuses on the application of the algorithm to numerical simulations in fast structural dynamics.
 
 &nbsp;
 
 ***
 # Publications and preprints
-- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui.
-- [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins.
+- [Convergence analysis for the wave equation discretized with hybrid methods in space (HHO, HDG and WG) and the leapfrog scheme in time](https://hal.science/hal-04200966v1), Alexandre Ern, Morgane Steins, submitted in Journal of Scientific Computing.
+- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui, [M2AN](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2023066).
+- [Convergence analysis of hybrid high-order methods for the wave equation](https://hal.archives-ouvertes.fr/hal-02922720), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins, [Journal of Scientific Computing](https://link.springer.com/article/10.1007/s10915-021-01492-1).
 
 &nbsp;
 
@@ -30,6 +31,8 @@ The last year of my PhD focuses on the application of the algorithm to numerical
 - [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), talk at the *CSMA 2022 (15ème colloque nationale en calcul des structures*, May 2022. [**Best poster Award**](assets/poster_final.pdf)
 - *An explicit HHO method for the acoustic wave equation*, talk at the [European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, June 2022.
 - [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf) at ECCOMAS Congress 2022, Oslo, June 2022. ([Slides](assets/STEINS_ECCOMAS.pdf))
+- [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) at JCJC-Ondes 2022, Sophia Antipolis, November 2022. 
+- [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) at ICOSAHOM 2023, Seoul, August 2023.
 
 &nbsp;
 

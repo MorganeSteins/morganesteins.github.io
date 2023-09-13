@@ -21,8 +21,9 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 
 ***
 # Publications et pré-publications
-- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui.
-- [Convergence analysis of hybrid high-order methods for the wave equation](https://link.springer.com/article/10.1007/s10915-021-01492-1), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins, J. Sci. Comput., 87(3), 91 (2021).
+- [Convergence analysis for the wave equation discretized with hybrid methods in space (HHO, HDG and WG) and the leapfrog scheme in time](https://hal.science/hal-04200966v1), Alexandre Ern, Morgane Steins, soumis à Journal of Scientific Computing.
+- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui, [M2AN](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2023066).
+- [Convergence analysis of hybrid high-order methods for the wave equation](https://link.springer.com/article/10.1007/s10915-021-01492-1), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins, [J. Sci. Comput.]((https://link.springer.com/article/10.1007/s10915-021-01492-1)), 87(3), 91 (2021).
 
 &nbsp;
 
@@ -32,6 +33,8 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 - [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), présentation au *CSMA 2022 (15ème colloque nationale en calcul des structures*, Mai 2022. [**Prix du meilleur poster**](assets/poster_final.pdf)
 - *An explicit HHO method for the acoustic wave equation*, présentation à l'[European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, Juin 2022.
 - [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf), présentation au congrès ECCOMAS 2022, Oslo, Juin 2022. ([Diapositives](assets/STEINS_ECCOMAS.pdf))
+- [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) au congrès JCJC-Ondes 2022, Sophia Antipolis, Novembre 2022. 
+- [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) à ICOSAHOM 2023, Séoul, Août 2023.
 
 &nbsp;
 
@@ -46,7 +49,7 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 
 ***
 # Curriculum
-J'ai obtenu mon diplôme d'ingénieur de l'[ENSTA Paris](https://www.ensta-paristech.fr/) en septembre 2020. J'ai décidé de me spécialiser en mathématiques appliquées à la simulation numérique. A cette fin j'ai suivi en parallèle les cours du master [AMS](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-analyse-modelisation-simulation) dont j'ai obtenu le diplôme en septembre 2020.
+J'ai obtenu mon diplôme d'ingénieur de l'[ENSTA Paris](https://www.ensta-paristech.fr/) en septembre 2020. J'ai décidé de me spécialiser en mathématiques appliquées à la simulation numérique. A cette fin, j'ai suivi en parallèle les cours du master [AMS](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-analyse-modelisation-simulation) dont j'ai obtenu le diplôme en septembre 2020.
 
 Durant ma scolarité j'ai réalisé plusieurs stages :
 - 6 mois à EDF Lab où je me suis intéressée à une méthode de post-traitement de la solution de l'équation de diffusion neutronique.
