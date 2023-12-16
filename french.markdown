@@ -29,12 +29,13 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 
 ***
 # Communications
-- [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), présentation au *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, Octobre 2021
-- [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), présentation au *CSMA 2022 (15ème colloque nationale en calcul des structures*, Mai 2022. [**Prix du meilleur poster**](assets/poster_final.pdf)
-- *An explicit HHO method for the acoustic wave equation*, présentation à l'[European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, Juin 2022.
-- [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf), présentation au congrès ECCOMAS 2022, Oslo, Juin 2022. ([Diapositives](assets/STEINS_ECCOMAS.pdf))
-- [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) au congrès JCJC-Ondes 2022, Sophia Antipolis, Novembre 2022. 
-- [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) à ICOSAHOM 2023, Séoul, Août 2023.
+- Podcast [À la rencontre des doctorants](https://podcast.ausha.co/a-la-rencontre-des-doctorants/ep-11-les-mathematiques-pour-une-meilleure-simulation-des-accidents-nucleaires), présentation non technique de mes travaux de thèse et de mon parcours, décembre 2023.
+- [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) à ICOSAHOM 2023, Séoul, août 2023.
+- [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) au congrès JCJC-Ondes 2022, Sophia Antipolis, Nnovembre 2022. 
+- [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf), présentation au congrès ECCOMAS 2022, Oslo, juin 2022. ([Diapositives](assets/STEINS_ECCOMAS.pdf))
+- *An explicit HHO method for the acoustic wave equation*, présentation à l'[European Finite Element Fair 2022](http://math.aalto.fi/conferences/efef2022/index.html), Aalto University, Helsinki, juin 2022.
+- [Une méthode HHO explicite pour la dynamique des structures](https://csma2022.sciencesconf.org/377744/document), présentation au *CSMA 2022 (15ème colloque nationale en calcul des structures)*, mai 2022. [**Prix du meilleur poster**](assets/poster_final.pdf)
+- [Une méthode HHO explicite pour la dynamique des structures](https://cjc-ma2021.github.io/resumes/resume-morgane-steins.pdf), présentation au *Congrès des Jeunes Chercheurs en Mathématiques Appliquées*, octobre 2021
 
 &nbsp;
 
