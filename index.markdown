@@ -27,7 +27,7 @@ The last year of my PhD focuses on the application of the algorithm to numerical
 
 ***
 # Communications
-- Podcast (in French) [À la rencontre des doctorants](https://podcast.ausha.co/a-la-rencontre-des-doctorants/ep-11-les-mathematiques-pour-une-meilleure-simulation-des-accidents-nucleaires), a nontechnical presentation of my PhD subject, December 2023.
+- Podcast (in French) [À la rencontre des doctorants](https://ingenius.ecoledesponts.fr/articles/les-mathematiques-pour-une-meilleure-simulation-des-accidents-nucleaires), a nontechnical presentation of my PhD subject, December 2023.
 - [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) at ICOSAHOM 2023, Seoul, August 2023.
 - [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) at JCJC-Ondes 2022, Sophia Antipolis, November 2022. 
 - [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf) at ECCOMAS Congress 2022, Oslo, June 2022. ([Slides](assets/STEINS_ECCOMAS.pdf))

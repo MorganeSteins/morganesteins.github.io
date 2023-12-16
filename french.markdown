@@ -29,7 +29,7 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 
 ***
 # Communications
-- Podcast [À la rencontre des doctorants](https://podcast.ausha.co/a-la-rencontre-des-doctorants/ep-11-les-mathematiques-pour-une-meilleure-simulation-des-accidents-nucleaires), présentation non technique de mes travaux de thèse et de mon parcours, décembre 2023.
+- Podcast [À la rencontre des doctorants](https://ingenius.ecoledesponts.fr/articles/les-mathematiques-pour-une-meilleure-simulation-des-accidents-nucleaires), présentation non technique de mes travaux de thèse et de mon parcours, décembre 2023.
 - [Explicit Hybrid High-Order (HHO) methods for non-linear dynamic equations](https://sigongji.icosahom2023.org/admin/proceedings/TableOfContents_web.asp) à ICOSAHOM 2023, Séoul, août 2023.
 - [Une méthode HHO explicite pour l'équation des ondes non-linéaires](https://jcjc_ondes.pages.math.cnrs.fr/slides/Steins_Morgane.pdf) au congrès JCJC-Ondes 2022, Sophia Antipolis, Nnovembre 2022. 
 - [An explicit HHO method for the wave equation](https://www.eccomas2022.org/admin/files/fileabstract/a386.pdf), présentation au congrès ECCOMAS 2022, Oslo, juin 2022. ([Diapositives](assets/STEINS_ECCOMAS.pdf))
