@@ -21,8 +21,8 @@ Ma dernière année de thèse est dédiée à l'application de cet algorithme à
 
 ***
 # Publications et pré-publications
-- [Convergence analysis for the wave equation discretized with hybrid methods in space (HHO, HDG and WG) and the leapfrog scheme in time](https://hal.science/hal-04200966v1), Alexandre Ern, Morgane Steins, soumis à Journal of Scientific Computing.
-- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273),Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui, [M2AN](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2023066).
+- [Convergence analysis for the wave equation discretized with hybrid methods in space (HHO, HDG and WG) and the leapfrog scheme in time](https://hal.science/hal-04200966v2), Alexandre Ern, Morgane Steins, [J. Sci. Comput.](https://rdcu.be/dQRVc), 101(1), Paper No. 7, 28 pp. (2024).
+- [Time-explicit Hybrid High-Order method for the nonlinear acoustic wave equation](https://hal.science/hal-03960273), Morgane Steins, Alexandre Ern, Olivier Jamond, Florence Drui, [M2AN](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2023066).
 - [Convergence analysis of hybrid high-order methods for the wave equation](https://link.springer.com/article/10.1007/s10915-021-01492-1), Erik Burman, Omar Duran, Alexandre Ern, Morgane Steins, [J. Sci. Comput.]((https://link.springer.com/article/10.1007/s10915-021-01492-1)), 87(3), 91 (2021).
 
 &nbsp;
